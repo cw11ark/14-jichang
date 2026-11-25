@@ -2,7 +2,7 @@
 
 > **一句话评价：先判断是否适合：香港线路IEPL接入，按在线设备数分档，需自家客户端。**
 >
-> 👉 **[官网注册](https://www.paofu.cloud/auth/register?code=4jQw)** · 建议从 轻量套餐 的短周期开始，先核对客户端和常用节点。
+> 👉 **[官网注册](https://www.paofu.cloud/auth/register?code=f4ND)** · 建议从 轻量套餐 的短周期开始，先核对客户端和常用节点。
 >
 
 >
@@ -56,7 +56,7 @@
 
 ## 注册
 
-👉 **[前往泡芙云注册页面](https://www.paofu.cloud/auth/register?code=4jQw)** · 付款前逐项核对当前套餐名、周期、流量与使用限制。
+👉 **[前往泡芙云注册页面](https://www.paofu.cloud/auth/register?code=f4ND)** · 付款前逐项核对当前套餐名、周期、流量与使用限制。
 
 ## 更新
 
